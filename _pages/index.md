@@ -2,10 +2,10 @@
 layout: page
 title: Home
 id: home
-permalink: /
+permalink: Hello
 ---
 
-# Welcome! 🌱
+# Welcome! 🧙🏼‍♂️
 
 This is the hoempage
 
