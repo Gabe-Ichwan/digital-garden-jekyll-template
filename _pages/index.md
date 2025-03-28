@@ -5,9 +5,9 @@ id: home
 permalink: /
 ---
 
-# Welcome To Gabes Place! 🔮
+# Gabe's Place 🔮
 
-This is the homepage
+Hello! This is a site where I post about my interests. 
 
 
 **Recent Posts**
@@ -16,10 +16,14 @@ This is the homepage
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
   {% for note in recent_notes limit: 5 %}
     <li>
-      {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
+      {{ note.last_modified_at | date: "%Y-%m-%d" }} — 
+      <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">
+        {{ note.path | split: "/" | last | split: "." | first }}
+      </a>
     </li>
   {% endfor %}
 </ul>
+
 
 <style>
   .wrapper {
