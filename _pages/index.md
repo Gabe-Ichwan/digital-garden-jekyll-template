@@ -5,12 +5,12 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🧙🏼‍♂️
+# Gabe's Place 🔮
 
 This is the homepage
 
-**Notes**
 
+**Recent Posts**
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
