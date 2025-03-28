@@ -1,3 +1,7 @@
+---
+tags:
+  - published
+---
 The full-spirited Captain Tajiri Bolmaro, known by many as simply Captain Bolmaro or “Mango,” was the head of the minor shiprunning company Bolmaro Seaways, and the employer of a tight-knit crew of sailors. 
 
 Bolmaro Seaways operated by contract—transporting goods between towns, private individuals, and other interested parties. Despite the captains hard-work and best efforts, the business suffered a number of setbacks over the years and struggled to make ends meet. 
@@ -15,7 +19,7 @@ When Fortune, the company’s only ship, was destroyed in-harbor by a kraken, Bo
 
 ## Appearance
 
-Captain Bolmaro was a towering, barrel-chested man with 
+Captain Bolmaro was a towering, barrel-chested man with long dreadlocked hair and a face well-worn with smile-lines. He wielded two blades of iridescent seaglass characteristic of sailors from Nautilus.
 
 
 
