@@ -2,12 +2,12 @@
 layout: page
 title: Home
 id: home
-permalink: Hello
+permalink: /
 ---
 
 # Welcome! 🧙🏼‍♂️
 
-This is the hoempage
+This is the homepage
 
 **Notes**
 
