@@ -16,6 +16,13 @@ An input string is valid if:
 
 The following basic solution solves the problem by keeping counters for each parentheses pair, incrementing the counter when an opening bracket is encountered, and decrementing the counter when a closing bracket is found:
 
+```js
+if (a ==b){
+  test;
+}
+```
+
+
 ```C
 bool isValid(char* s) {
     int parensFound = 0;
