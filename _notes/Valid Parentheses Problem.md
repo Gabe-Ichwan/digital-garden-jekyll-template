@@ -18,32 +18,32 @@ The following basic solution solves the problem by keeping counters for each par
 
 ```c
 bool isValid(char* s) {
-    int parensFound = 0;
-    int curliesFound = 0;
-    int squaresFound = 0;
+	int parensFound = 0;
+	int curliesFound = 0;
+	int squaresFound = 0;
 
-    for (int i = 0; i < strlen(s); i++){
-        if (s[i] == '('){
-            parensFound++;
-        }
-        if (s[i] == '{'){
-            curliesFound++;
-        }
-        if (s[i] == '['){
-            squaresFound++;
-        }
-
-        if (s[i] == ')'){
-            parensFound--;
-        }
-        if (s[i] == '}'){
-            curliesFound--;
-        }
-        if (s[i] == ']'){
-            squaresFound--;
-        }
-    }
-
-    return (parensFound == 0 && curliesFound == 0 && squaresFound == 0);
+	for (int i = 0; i < strlen(s); i++){
+		if (s[i] == '('){
+			parensFound++;
+		}
+		if (s[i] == '{'){
+			curliesFound++;
+		}
+		if (s[i] == '['){
+			squaresFound++;
+		}
+	
+		if (s[i] == ')'){
+			parensFound--;
+		}
+		if (s[i] == '}'){
+			curliesFound--;
+		}
+		if (s[i] == ']'){
+			squaresFound--;
+		}
+	}
+	
+	return (parensFound == 0 && curliesFound == 0 && squaresFound == 0);
 }
 ```
