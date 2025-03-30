@@ -6,7 +6,7 @@ Monotonicity refers to a function that either does not increase, OR does not dec
 
 A function is monotonically increasing if:
 
-$m \le n$ implies $f(m) \le f(n)$
+$m\le n$ implies $f(m)\le f(n)$
 
 A function is monotonically decreasing if:
 
