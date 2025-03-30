@@ -44,5 +44,3 @@ defaults:
 
 kramdown:
   hard_wrap: true
-
-markdown: kramdown
