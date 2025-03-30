@@ -23,7 +23,7 @@ if (a ==b){
 ```
 
 
-```C
+```c
 bool isValid(char* s) {
     int parensFound = 0;
     int curliesFound = 0;
