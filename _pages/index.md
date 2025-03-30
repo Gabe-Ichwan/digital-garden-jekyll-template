@@ -18,7 +18,7 @@ Hello! This is a site where I post about my interests.
     <li>
       {{ note.last_modified_at | date: "%Y-%m-%d" }} — 
       <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">
-        {{ note.path | split: "/" | last | split: "." | first }}
+        {{ note.path | split: "/" | last | replace: ".md", "" }}
       </a>
     </li>
   {% endfor %}
