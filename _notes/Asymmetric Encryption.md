@@ -4,7 +4,7 @@ aliases:
 tags:
   - published
 ---
-Asymmetric Encryption, also known as public-key cryptography, is method used for encrypted exchange. Each partner in the exchange has a private key and a public key that are mathematically linked via methods such as [[RSA Encryption]], but cannot be derived from one another. A message encrypted with the public key can only be decrypted by the corresponding private key. 
+Asymmetric Encryption, also known as public-key cryptography, is a method used for encrypted exchange. Each partner in the exchange has a private key and a public key that are mathematically linked via methods such as [[RSA Encryption]], but cannot be derived from one another. A message encrypted with the public key can only be decrypted by the corresponding private key. 
 
 When partner A wants to send a message to partner B, partner B first shares their public key with A. A then uses this public key to encrypt a sensitive message, then sends it to B to be decrypted using their corresponding private key. [(1)](https://www.youtube.com/watch?v=AQDCe585Lnc)
 
