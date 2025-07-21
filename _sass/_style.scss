@@ -8,14 +8,17 @@ $font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
   sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
 
 body {
+  background: #0a1f44; // deep blue
+  color: #00ffea;      // bright cyan text
+  font-family: 'VT323', 'Fira Mono', 'Consolas', monospace; // pixel/mono fonts
+  font-size: 1.2em;
+  text-shadow: 0 0 1px #00ffea, 0 0 2px #0a1f44; // slight glow/pixel effect
+  image-rendering: pixelated; // for images, if any
   box-sizing: content-box;
-  font-family: $font-family;
   margin: 0 auto;
   line-height: 1.7;
   padding: 4vh 6vw;
   overflow-x: hidden;
-  color: $color-text;
-  font-size: 1rem;
   max-width: 50em;
 
   @media (min-width: 820px) {
@@ -34,6 +37,8 @@ footer {
   font-size: 0.8em;
   color: mix($color-text, white, 80%);
   padding-top: 1em;
+  background: transparent;
+  border: none;
 }
 
 img {
@@ -78,9 +83,9 @@ h6 {
 a {
   transition: background 300ms;
   padding: 0 0.1em;
-  text-decoration: none;
+  text-decoration: underline;
   border-bottom: 1px solid $color-border;
-  color: $color-primary;
+  color: #ffea00;
   &:hover {
     color: black !important;
     background: #fffaf1;
@@ -106,6 +111,8 @@ a {
 
 nav {
   margin: 1em 0 3em;
+  background: transparent;
+  border: none;
 }
 
 #notes-entry-container {
@@ -143,4 +150,8 @@ code {
 .invalid-link-brackets {
   color: #ccc;
   cursor: help;
+}
+
+.wrapper {
+  padding: 2em;
 }
