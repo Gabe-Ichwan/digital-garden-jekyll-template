@@ -43,4 +43,5 @@ defaults:
       layout: "note"
 
 kramdown:
+  input: GFM
   hard_wrap: true
