@@ -5,9 +5,11 @@ id: home
 permalink: /
 ---
 
-# Gabe's Place 🔮
+# Gabe's Blue Blog
 
-Hello! This is a site where I post about my interests. 
+# ██▒▒▒▒▒▒▒▒
+
+You've found my blog!
 
 
 **Recent Posts**

@@ -1,13 +1,14 @@
 <style>
-  .links line {
-    stroke: #ccc;
-    opacity: 0.5;
-  }
+ .links line {
+  stroke: #ccc;
+  opacity: 0.5;
+  shape-rendering: crispEdges;
+}
+
 
   .nodes circle {
     cursor: pointer;
-    fill: #8b88e6;
-    transition: all 0.15s ease-out;
+    fill: #ffffff;
   }
 
   .text text {
@@ -28,9 +29,10 @@
   }
 
   #graph-wrapper {
-    background: #fcfcfc;
-    border-radius: 4px;
+    background: #000000;
+    border-radius: 5px;
     height: auto;
+
   }
   
   #graph-wrapper > svg {
