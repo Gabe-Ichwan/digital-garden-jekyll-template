@@ -1,10 +1,12 @@
-$color-primary: hsl(0, 0%, 100%);
-$color-text: hsl(0, 0%, 100%);
-$color-subtext: hsl(0, 0%, 100%);
+$color-primary: #66981A;
+$color-text: #FBF1C7;
+$color-subtext: #97897D;
 $color-border: hsl(0, 0%, 100%);
-$color-box-background: mix($color-primary, white, 4%);
+$color-box-background: #1D2021;
 $border-radius: 4px;
-$font-family: 'Pixelify Sans', 'JetBrains Mono', 'Courier New', monospace;
+// $font-family: 'Pixelify Sans', 'JetBrains Mono', 'Courier New', monospace;
+$font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+  sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
 
 body {
   box-sizing: content-box;
@@ -16,7 +18,7 @@ body {
   color: $color-text;
   font-size: 1rem;
   max-width: 50em;
-  background-color: rgb(0, 18, 156);
+  background-color: #282828;
 
   @media (min-width: 820px) {
     font-size: 1.2rem;
@@ -61,7 +63,7 @@ hr {
   border: 0;
   height: 1px;
   margin: 1.5em 0;
-  background: $color-border;
+  background: $color-subtext;
 }
 
 h1,
@@ -79,10 +81,11 @@ a {
   transition: background 300ms;
   padding: 0 0.1em;
   text-decoration: none;
+  // border-bottom: 4px;
   color: $color-primary;
   &:hover {
-    color: black !important;
-    background: #fffaf1;
+    text-decoration-style: wavy;
+    text-decoration-thickness: 2px;
   }
   &:after {
     position: relative;
@@ -99,8 +102,6 @@ a {
 }
 
 *:focus {
-  background: #ffe8bc !important;
-  color: black !important;
 }
 
 nav {
@@ -134,13 +135,12 @@ code {
 }
 
 .invalid-link {
-  color: #444444;
+  color: hsl(49, 5%, 59%);
   cursor: help;
-  background: #fafafa;
   padding: 0 0.1em;
 }
 
 .invalid-link-brackets {
-  color: #ccc;
+  color: hsl(53, 8%, 78%);
   cursor: help;
 }
