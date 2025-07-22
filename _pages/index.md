@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-# Gabe's Secret Blog 🕊️
+# Gabe's Secret Blog 
 
 # ██▒▒▒▒▒▒▒▒
 

@@ -7,8 +7,6 @@ In collaboration with the nascent order, Margot undertook a path of honing her i
 
 What she could not predict however, was that her attunement to this incredibly powerful aspect would profoundly alter her perception of reality—and her place in it. The moment Margot wielded *The Curtain*, she was seized by an otherworldly revelation that material reality, itself, was yet *another* cognitive realm spawned from the imagining of some greater being. 
 
-When Margot came to her senses, she was stronger than ever. She held the power to blanket entire cities in a persistent, illusory filters—causing their inhabitants to rationalize and hallucinate plausible explanations for even the most severe [[Cascade|Cascades]]. This same power however, also seemed to be persistently applied to herself, making her invisible to the outside world, even those who wielded mental magic. Though, occasionally, and for reasons she never quite understood, some people *could* see her.
+When Margot came to her senses, she was stronger than ever. She held the power to blanket entire cities in a persistent, illusory filters—causing their inhabitants to rationalize and hallucinate plausible explanations for even the most severe cascades. This same power however, also seemed to be persistently applied to herself, making her invisible to the outside world, even those who wielded mental magic. Though, occasionally, and for reasons she never quite understood, some people *could* see her.
 
 Margot wears a veil, not to hide herself from the world, but to hide the world from herself. The obstruction of her vision helps to alleviate the distress of looking too closely at a world she once unquestioningly accepted as real. It keeps her from paying attention to the hazy, indistinct, and inconsistent details of an imagined world. 
-
-![[2996531e8587e37710cec2bea3467fad.jpg]]
