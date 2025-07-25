@@ -10,7 +10,7 @@ In the cognitive realm, perception shapes reality. There, the net total of all t
 
 When ideation of a particularly vast or obsessive nature is fixated on a particular concept, this power profoundly transforms the cognitive realm—instantiating a concept that previously had no form, or dramatically altering its existing locus. When the power of ideation is strong enough, the sheet between worlds can be broken, causing a thought, or many thoughts, to spill down into the material. This effect is known as a “cascade.”
 
-## [[Muse|Muses]] and [[Aspect|Aspects]]
+## Muses and Aspects
 
 By conceiving of a detailed, personally-significant, and compelling patron, it is possible for humans to create **muses** that mediate access to the cognitive realm, channeling them a small fraction of its power. These humans, known as **mentalists**, are thus capable of wielding a wide variety of supernatural abilities. 
 

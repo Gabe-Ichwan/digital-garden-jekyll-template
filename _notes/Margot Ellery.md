@@ -1,4 +1,6 @@
 ---
+tags:
+  - cascade_characters
 ---
 
 Margot Ellery was one of the Founders of the [[Order of The Black Umbrella]]. A gifted mentalist, Margot was especially talented at using her powers to distort reality through illusion. She would go on to create the vast filter concealing mentalism in Washington, now known as “Margot’s Curtain.”

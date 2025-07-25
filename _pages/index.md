@@ -5,18 +5,20 @@ id: home
 permalink: /
 ---
 
-# Gabe's Secret Blog 
+# Gabe's Secret Blog 🕊️ 
+
+
 
 # ██▒▒▒▒▒▒▒▒
 
-You've found my blog!
+You've found my secret blog!
 
 
 **Recent Posts**
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
-  {% for note in recent_notes limit: 1000 %}
+  {% for note in recent_notes limit: 10 %}
     <li>
       {{ note.last_modified_at | date: "%Y-%m-%d" }} — 
       <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">
