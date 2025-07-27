@@ -1,6 +1,5 @@
 ---
 tags:
-  - published
 ---
 LU Factorization is a process formulated by [[Alan Turing]] that involves decomposing a matrix $A$ into the product of a lower triangular matrix $L$ and an upper triangular matrix $U$, in order to solve a system of equations in the form $Ax=b$. The steps are as follows:
 

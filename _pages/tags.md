@@ -6,7 +6,7 @@ permalink: /tags
 
 # All Tags
 
-<ul>
+<h2>
   {% assign tags_list = site.notes | map: "tags" | join: "," | split: "," | uniq | sort %}
   {% for tag in tags_list %}
     {% if tag != "" %}
@@ -24,4 +24,4 @@ permalink: /tags
         </ul>
     {% endif %}
   {% endfor %}
-</ul>
+</h2>

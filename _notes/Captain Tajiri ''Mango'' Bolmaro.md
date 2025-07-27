@@ -1,6 +1,5 @@
 ---
 tags:
-  - published
 ---
 The gregarious Captain Tajiri Bolmaro, known by many as simply Captain Bolmaro or “Mango,” was the head of the minor shiprunning company Bolmaro Seaways, and the employer of a tight-knit crew of sailors. 
 

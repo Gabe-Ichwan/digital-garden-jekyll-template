@@ -8,6 +8,7 @@ $border-radius: 4px;
 $font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
   sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
 
+
 body {
   box-sizing: content-box;
   font-family: $font-family;
@@ -76,9 +77,18 @@ h6 {
   margin-bottom: 0;
   padding-bottom: 0;
   font-family: 'Bebas Neue', sans-serif;
-  font-weight: 900;
-  font-size: 250%;
 }
+
+:root {
+  --heading-scale: 1.3; // Change this value to scale all headings
+}
+
+h1 { font-size: calc(2em * var(--heading-scale)); }
+h2 { font-size: calc(1.5em * var(--heading-scale)); }
+h3 { font-size: calc(1.17em * var(--heading-scale)); }
+h4 { font-size: calc(1em * var(--heading-scale)); }
+h5 { font-size: calc(0.83em * var(--heading-scale)); }
+h6 { font-size: calc(0.67em * var(--heading-scale)); }
 
 a {
   transition: background 300ms;

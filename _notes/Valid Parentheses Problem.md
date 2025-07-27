@@ -1,6 +1,5 @@
 ---
 tags:
-  - published
 ---
 ## Problem 
 
