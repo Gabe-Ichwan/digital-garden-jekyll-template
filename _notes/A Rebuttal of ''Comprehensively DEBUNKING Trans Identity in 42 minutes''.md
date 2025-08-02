@@ -5,16 +5,12 @@ I am not a trans person. I wrote this essay as an exercise in being philosophica
 
 ## King Critical’s Video
 
-
-![[Pasted image 20250801125926.png]]
-
-
 **Premises of The Video:**
 
 1. Some claims about reality are empirically and obviously true, while others are clearly false
 2. The purpose language is to communicate about reality, so therefore a word that fails in this capacity is being used or interpreted incorrectly. If someone asks for a sandwich, giving them a hotdog might be acceptable, but giving them a pencil is clearly incorrect.
 3. If we determine the need to change the definition of word, it must be accompanied by a sound argument for *why* we decide to change it.
-4. The gendered signifiers of “man” and “woman” empirically and obviously pertain to sex assigned at birth, and denial of this fact could reasonably have significant negative ramifications in society, such as the erosion of [[Feminism|Feminist]] movements.
+4. The gendered signifiers of “man” and “woman” empirically and obviously pertain to sex assigned at birth, and denial of this fact could reasonably have significant negative ramifications in society, such as the erosion of feminist movements.
 
 First, I will begin with a rough summation of the main points of the video, based on these premises. In the second portion of this essay, I will offer a rebuttal based on the third and fourth premise.
 
@@ -32,7 +28,7 @@ Before I offer an alternative basis for trans affirmation that overcomes these l
 1. We might affirm someone who uses their identity for malicious purposes
 2. The affirmation of trans identity may inadvertently erode the category of “woman” and thus impede feminist movements
 
-To the first point, I contend that to live in contemporary society is to extend, a certain amount of trust, based on what we can reasonably gather, that people are who they say they are. Perhaps it is for the same reason that if I told you my name was Sam, and I was a reasonable and decent guy, you would probably take me at my word, and not question whether my birth name is actually something different, or whether I am actually a conman scheming to rob you, or whether my appropriation of the label was simply a tactic to avoid capture by law enforcement agencies after I bombed a plane I boarded under a different alias. Perhaps if there was some clear, verifiable, and empirical evidence that my claims to identity were a danger to you or myself, then you might be justified in doubting me. But, in the case of the transgender identity—we *do not* see this on a meaningful scale. The commonly cited examples—such as trans women committing crimes in women’s spaces, dominating women’s sports, or regretting their transition—are isolated, rare, and simply not occurring any scale so as to meaningfully characterize the movement. 
+To the first point, I contend that to live in contemporary society is to extend a certain amount of trust, based on what we can reasonably gather, that people are who they say they are. Perhaps it is for the same reason that if I told you my name was Sam, and I was a reasonable and decent guy, you would probably take me at my word, and not question whether my birth name is actually something different, or whether I am actually a conman scheming to rob you, or whether my appropriation of the label was simply a tactic to avoid capture by law enforcement agencies after I bombed a plane I boarded under a different alias. Perhaps if there was some clear, verifiable, and empirical evidence that my claims to identity were a danger to you or myself, then you might be justified in doubting me. But, in the case of the transgender identity—we *do not* see this on a meaningful scale. The commonly cited examples—such as trans women committing crimes in women’s spaces, dominating women’s sports, or regretting their transition—are isolated, rare, and simply not occurring any scale so as to meaningfully characterize the movement. 
 
 To the second point, I also reject the claim that the affirmation of trans identity in any way *denies* the existence of past or present gender constructs in society, or that it could pose any meaningful risk of eroding the category of “woman” such as to impede Feminist movements. He does not elaborate on this point much in the video, but to me it echoes a common thread seen and refuted throughout much of feminist history—that feminism as a whole is only “for” a certain kind of woman. What we have seen with women of color, working class backgrounds, disability, is that denying them entry into feminist spaces only reinforces the notion that “womanhood” should be policed according to rigid borders. As we have seen time and time again, true solidarity comes from the recognition of shared experience with injustice, rather than a fixation on the things that divide us.
 
