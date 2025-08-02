@@ -7,14 +7,14 @@ permalink: /all
 
 # All Posts
 
-<ul>
+<h1>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
   {% assign notes_by_year = recent_notes | group_by_exp: "note", "note.last_modified_at | date: '%Y'" %}
   {% for year in notes_by_year %}
-    <h2>{{ year.name }}</h2>
+    <h1>{{ year.name }}</h1>
     {% assign notes_by_month = year.items | group_by_exp: "note", "note.last_modified_at | date: '%B'" %}
     {% for month in notes_by_month %}
-      <h3>{{ month.name }}</h3>
+      <h2>{{ month.name }}</h2>
       <ul>
         {% for note in month.items %}
           <li>
@@ -27,7 +27,7 @@ permalink: /all
       </ul>
     {% endfor %}
   {% endfor %}
-</ul>
+</h1>
 
 
 <style>
