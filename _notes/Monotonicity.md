@@ -1,6 +1,5 @@
 ---
 tags:
-  - published
 ---
 Monotonicity refers to a function that either does not increase, OR does not decrease. A function is monotonically increasing if the line always trends upwards, possibly plateauing in some areas, but never decreases. The inverse is true of a monotonically decreasing function. Formally:
 

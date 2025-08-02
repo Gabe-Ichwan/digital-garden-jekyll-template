@@ -7,7 +7,7 @@ permalink: /all
 
 # All Posts
 
-<h1>
+<h2>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
   {% assign notes_by_year = recent_notes | group_by_exp: "note", "note.last_modified_at | date: '%Y'" %}
   {% for year in notes_by_year %}
@@ -27,7 +27,7 @@ permalink: /all
       </ul>
     {% endfor %}
   {% endfor %}
-</h1>
+</h2>
 
 
 <style>

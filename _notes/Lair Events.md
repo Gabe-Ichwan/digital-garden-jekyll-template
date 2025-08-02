@@ -1,6 +1,5 @@
 ---
 tags:
-  - published
 ---
 Moving away from some of the more wishy-washy theoretical opinion-pieces of my Gaming methodology, here’s something tangible: I call them “lair events!” Lair events are a system I like to utilize in my games to make significant battles feel a little more cinematic, unpredictable, and engaging. The basic idea is simple: Create a table before the battle of both *beneficial* and *detrimental* events, then, during combat on initiative count 0, roll on the table for a “lair event” that changes the tide of battle. 
 
